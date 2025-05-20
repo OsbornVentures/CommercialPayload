@@ -8,7 +8,7 @@
 
 This is an experimental Python script we made for a commercial subliminal-style terminal ad campaign. Designed to:
 - Simulate system injection and digital manipulation
-- Scroll through quotes from our original ebook *"If I Were the Architect of the Modern Age"*
+- Scroll through quotes from the ebook *"If I Were the Architect of the Modern Age"*
 - Deliver a hypnotic ad rollout
 - Leave the viewer slightly disturbed and more likely to Google **BitsNBytes.ai**
 
