@@ -1,4 +1,5 @@
 # 📡 BitsNBytes.ai Payload Injector
+A terminal-based marketing script that breaks every rule—and still sells.
 > 🔥 Featured on Product Hunt: [Check it out & support us](https://www.producthunt.com/...)  
 
 
