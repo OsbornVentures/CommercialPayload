@@ -11,6 +11,7 @@ This is an experimental Python script we made for a commercial subliminal-style 
 - Scroll through quotes from the ebook *"If I Were the Architect of the Modern Age"*
 - Deliver a hypnotic ad rollout
 - Leave the viewer slightly disturbed and more likely to Google **BitsNBytes.ai**
+- We never deployed the commercial, But the idea was cool right?
 
 ---
 
@@ -21,7 +22,9 @@ This is an experimental Python script we made for a commercial subliminal-style 
 - 🎨 **Random ANSI Color Output**
 - 🔐 **Quotes on Digital Surveillance, AI Control, and Technological Isolation**
 - 🛠️ **Calls to Action for Real Customers**
-- 💾 **Scripted Like a Terminal Virus. Built Like a Sales Funnel.**
+- 💾 **Scripted like a terminal virus. Built like a sales funnel.**
+- 🎯 **Yet here you are, reading this. This *is* the future of targeted marketing—in a GitHub markdown. Did we hit our demographic? We think so.**
+
 
 ---
 
@@ -91,6 +94,10 @@ We're not here to compete.
 **We're here to replace you.**
 
 ---
+
+
+
+
 
 **#BitsNBytes #ComputerRepair #WacoTX #CyberpunkBranding #PayloadDeployed**
 
