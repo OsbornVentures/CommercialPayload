@@ -31,7 +31,7 @@ This is an experimental Python script we made for a commercial subliminal-style 
 
 
 ---
-![BitsNBytesCommercialPayload](https://github.com/user-attachments/assets/b04b7e55-0b58-4ed5-ad9a-acc9dc4be048)
+[![BitsNBytesCommercialPayload](https://github.com/user-attachments/assets/b04b7e55-0b58-4ed5-ad9a-acc9dc4be048)](https://youtu.be/LOU2NRSLhso)
 ---
 
 ## 📌 Who We Are
