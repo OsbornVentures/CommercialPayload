@@ -1,24 +1,49 @@
-This is free and unencumbered software released into the public domain.
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+Osborn Ventures Anti-Extraction License (OV-AEL v1.0)
+Copyright (c) 2024-2025 Osborn Ventures Inc. / Bits N Bytes Inc.
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+Permission is hereby granted, free of charge, to any person or entity (the “User”) to use, modify, or distribute this software, provided that the following conditions are met:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+1. ACKNOWLEDGMENT AND RECIPROCITY:
+   - If you use this code, concept, or derivative to make money, you are required to:
+     a) Credit Osborn Ventures Inc. and Bits N Bytes Inc. clearly and visibly.
+     b) Provide a voluntary backlink to: https://bitsnbytes.ai
+     c) Consider reciprocating with services, support, or content if our brands align.
 
-For more information, please refer to <https://unlicense.org>
+2. ZERO LIABILITY, BUT OPEN DOOR:
+   - If this script breaks your computer, do not email us asking for damages.
+     You’ve been warned. It’s in the code. You ran it anyway.
+   - HOWEVER, we may help you repair it—**for a reasonable fee**. Visit https://bitsnbytes.ai.
+
+3. CORPORATE CLAUSE (a.k.a. The Extraction Trap):
+   - This license explicitly **discourages** use by:
+     - Surveillance-driven tech companies
+     - SaaS platforms that exist solely to charge monthly for glorified spreadsheets
+     - Startups whose pitch decks mention “Web3 synergy” without irony
+     - Any VC-funded “AI productivity tool” that just rebrands ChatGPT responses
+
+4. GOOD FAITH RULE:
+   - If you're a tinkerer, hobbyist, educator, or someone trying to build something beautiful: carry on, and carry it far.
+   - If you sell your soul to adtech and try to hide our name in your monetized clone:
+     We’ll find it. We’ll know. And we’ll publicly roast you with SEO-optimized receipts.
+
+5. BRAND INTENT AND CULTURAL SIGNAL:
+   - This license is a binding statement of intellectual origin and intention.
+   - All derivative works retain spiritual and symbolic ties to Osborn Ventures Inc.
+     Bits N Bytes Inc. is the operational and public-facing execution engine.
+   - Use of this code in meaningful projects acknowledges our influence, even if unspoken.
+
+6. UPDATES:
+   - This license may evolve.
+   - Future versions may get angrier, funnier, or legally stricter.
+   - But they will never be boring.
+
+---
+
+For questions, respectful use, collabs, or to barter services with a real human being:
+📧 info@bitsnbytes.ai
+🌐 https://bitsnbytes.ai
+
+You have permission. Now build something that matters.
+
+#PayloadDelivered
