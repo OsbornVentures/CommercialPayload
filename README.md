@@ -1,4 +1,6 @@
 # 📡 BitsNBytes.ai Payload Injector
+> 🔥 Featured on Product Hunt: [Check it out & support us](https://www.producthunt.com/...)  
+
 
 > 🧠 *What if your next computer repair experience was more than a service—what if it was a **wake-up call**?*
 
