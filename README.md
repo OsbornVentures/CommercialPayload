@@ -1,6 +1,7 @@
 # 📡 BitsNBytes.ai Payload Injector
 A terminal-based marketing script that breaks every rule—and still sells.
-> 🔥 Featured on Product Hunt: [Check it out & support us](https://www.producthunt.com/...)  
+> 🔥 Featured on Product Hunt: [Check it out & support us](https://www.producthunt.com/posts/commercialpayload)  
+
 
 
 > 🧠 *What if your next computer repair experience was more than a service—what if it was a **wake-up call**?*
@@ -29,6 +30,8 @@ This is an experimental Python script we made for a commercial subliminal-style 
 - 🎯 **Yet here you are, reading this. This *is* the future of targeted marketing—in a GitHub markdown. Did we hit our demographic? We think so.**
 
 
+---
+![BitsNBytesCommercialPayload](https://github.com/user-attachments/assets/b04b7e55-0b58-4ed5-ad9a-acc9dc4be048)
 ---
 
 ## 📌 Who We Are
